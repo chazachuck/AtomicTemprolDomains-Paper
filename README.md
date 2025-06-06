@@ -9,3 +9,17 @@ def subtract(a, b):
 if __name__ == "__main__":
     print("5 + 3 =", add(5, 3))
     print("5 - 3 =", subtract(5, 3))
+# GitHub Mobile Practice
+
+## Steps I Took:
+1. Created `practice-repo`
+2. Added files via "Create new file":
+   - `hello.txt`
+   - `calculator.py`
+   - `instructions.md`
+
+## Next Goals:
+- [ ] Edit files directly in the app
+- [ ] Commit changes
+- [ ] Explore the "Pull Requests" tab
+Add text
