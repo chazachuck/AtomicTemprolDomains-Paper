@@ -50,3 +50,6 @@ Predicts coherence retention... [1 sentence]
 \dot{S} = k_B K \sum_i \left| \frac{\partial \Gamma_i}{\partial \phi_i} \right|  
 \end{equation}  
 Links temporal domains to... [1 sentence]
+# In your repo's simulations/ directory
+python eq1_temporal_operator.py  # Tests coherence threshold
+python eq4_entropy_production.py # Generates arrow-of-time plot
