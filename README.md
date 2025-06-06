@@ -23,4 +23,5 @@ if __name__ == "__main__":
 - [ ] Commit changes
 - [ ] Explore the "Pull Requests" tab
 Add text
-\hat{\mathcal{T}}=\sum_i\hbar\omega_i\hat{a}_i^\dagger\hat{a}_i+K\left|\sum_{\langle ij\rangle}g_{ij}\left(\hat{a}_i^\dagger\hat{a}_je^{i\phi_{ij}}+\mbox{h.c.}\right)\right|^{1/2}
+\hat{\mathcal{T}}=\sum_i\hbar\omega_i\hat{a}_i^\dagger\hat{a}_i+K\left|\sum_{\langle ij\rangle}g_{ij}\left(\hat{a}_i^\dagger\hat{a}_je^{i\phi_{ij}}+\mbox{h.c.}\right)\right|^{1/2} 
+add equation
